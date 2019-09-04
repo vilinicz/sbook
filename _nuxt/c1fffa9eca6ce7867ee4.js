@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{497:function(t,e,n){"use strict";n.r(e);n(61);var r={layout:"trainer",mounted:function(){this.$router.replace({path:"/trainer/schedule"})}},l=n(4),component=Object(l.a)(r,function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("TRAINER")])},[],!1,null,null,null);e.default=component.exports}}]);
